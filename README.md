@@ -1,5 +1,4 @@
 ## Project Title: AD 331 Building a Simple Neural Network for Classification
-
 #### By: Amde Wubshet
 
 ### Framework Used: 
